@@ -11,11 +11,11 @@ import java.util.Scanner;
 
 
 // Game class implementing the interfaces
-class TextAdventureGame implements GameMode, GameStory {
+class LongilongGame implements GameMode, GameStory {
     private Scanner scanner;
     private String playerName;
 
-    TextAdventureGame() {
+    LongilongGame() {
         scanner = new Scanner(System.in);
     }
 
@@ -51,8 +51,7 @@ class TextAdventureGame implements GameMode, GameStory {
         System.out.println("Press 1 or 2 to select your game mode.");
         System.out.println("1 - Story Mode");
         System.out.println("2 - Survival Mode");
-       
-        
+
         int modeChoice = scanner.nextInt();
 
         switch (modeChoice) {
@@ -60,7 +59,13 @@ class TextAdventureGame implements GameMode, GameStory {
                 displayStory();
                 break;
             case 2:
-                startSurvival();
+                System.out.println("Press P to start playing, " + playerName + ".");
+                char startChoice = scanner.next().charAt(0);
+                if (Character.toUpperCase(startChoice) == 'P') {
+                    startSurvival();
+                } else {
+                    System.out.println("Invalid choice. Exiting...");
+                }
                 break;
             default:
                 System.out.println("Invalid choice. Exiting...");
@@ -111,12 +116,11 @@ class TextAdventureGame implements GameMode, GameStory {
     public void displayMenu() {
         System.out.println("Welcome to the Longilong Adventure Game!");
     }
-
 }
 
 public class MyGame {
     public static void main(String[] args) {
-        TextAdventureGame game = new TextAdventureGame();
+        LongilongGame game = new LongilongGame();
         game.start();
     }
 }
