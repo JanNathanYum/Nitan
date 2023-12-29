@@ -287,51 +287,51 @@ public class Government_Agency{
         
 System.out.println("************************************************************************************************************************");
 System.out.println(" ");
-System.out.println("\t\t\t\tRepublic of the Philippines"
-        + "\n\t\t\t\tOffice of The Civil Registrar General"
-        + "\n\t\t\t\tCertificate of Live Birth");
+System.out.println("\t\t\t\t\tRepublic of the Philippines"
+        + "\n\t\t\t\t   Office of The Civil Registrar General"
+        + "\n\t\t\t\t\tCertificate of Live Birth");
 System.out.println(" ");
 System.out.println("************************************************************************************************************************");
 System.out.printf("\tNAME\t\t\t| First Name: \t\t\t| Middle Name: \t\t\t| Last Name: \n");
 System.out.printf("\t\t\t        | %-25s     | %-25s     | %-25s \n", B.getFname(), B.getMname(), B.getLname());
 System.out.println("************************************************************************************************************************");
 System.out.println("\t| SEX\t\t\t| Date of Birth:(MM/DD/YYYY)");
-System.out.printf("\t| %-20s  | %-25s |\n", B.getgen(), B.getBD());
+System.out.printf("\t| %-20s  | %-25s \n", B.getgen(), B.getBD());
 System.out.println("************************************************************************************************************************");
 System.out.println("\tPlace of Birth\t\t| Name of Hospital/Clinic/Institution\t| City/Municipality\t| Province");
-System.out.printf("\t\t\t\t| %-20s                 | %-20s | %-20s \n", B.getHos(), B.getCity(), B.getprovi());
+System.out.printf("\t\t\t\t| %-20s                  | %-20s  | %-20s \n", B.getHos(), B.getCity(), B.getprovi());
 System.out.println("\t| Type of Birth\t\t| If Multiple Birth, Child was");
 System.out.printf("\t| %-20s  | %-20s \n", B.getTB(), B.getTBP());
 System.out.println("\t| Birth Order\t\t| Weight At Birth");
 System.out.printf("\t| %-20s  | %-20s \n", B.getTBP(), B.getweigh());
 System.out.println("************************************************************************************************************************");
-System.out.println("\t\t\t\tMother Information");
+System.out.println("\t\t\t\t\tMother Information");
 System.out.println("************************************************************************************************************************");
 System.out.println("Maiden Name     |First Name:      |Middle Name:       |Last Name:");
-System.out.printf("\t    | %-20s | %-20s | %-20s |\n", B.getMFname(), B.getMMname(), B.getMLname());
+System.out.printf("\t        | %-15s | %-15s   | %-15s \n", B.getMFname(), B.getMMname(), B.getMLname());
 System.out.println("************************************************************************************************************************");
-System.out.println("                |Citizenship      |Religion");
-System.out.printf("\t        | %-13s   | %-13s \n", B.getMCite(), B.getReligion());
+System.out.println("\t| Citizenship          | Religion");
+System.out.printf("\t| %-13s      | %-13s \n", B.getMCite(), B.getReligion());
 System.out.println("************************************************************************************************************************");
-System.out.println("                |Occupation       |Age at the time of this birth");
-System.out.printf("\t     | %-14s   | %-20s |\n", B.getMocc(), B.getMage());
+System.out.println("\t| Occupation       | Age at the time of this birth");
+System.out.printf("\t| %-14s   | %-20s \n", B.getMocc(), B.getMage());
 System.out.println("************************************************************************************************************************");
-System.out.println("\t|Residence     | (House No.,Street,Barangay)    | (City/Municipality)   | (Province)");
-System.out.printf("\t | %-35s | %-20s | %-20s |\n", B.getMHos(), B.getMCity(), B.getMprovi());
+System.out.println("\tResidence     | (House No.,Street,Barangay)    | (City/Municipality)   | (Province)");
+System.out.printf("\t              | %-20s           | %-20s  | %-20s \n", B.getMHos(), B.getMCity(), B.getMprovi());
 System.out.println("************************************************************************************************************************");
-System.out.println("\t\t\t\tFather Information");
+System.out.println("\t\t\t\t\t\tFather Information");
 System.out.println("************************************************************************************************************************");
 System.out.println("\tFather's Name\t\t\t| First Name: \t\t\t| Middel Name: \t\t\t| Last Name:");
-System.out.printf("\t                                | %-20s        | %-20s          | %-20s \n", B.getFFname(), B.getFMname(), B.getFLname());
+System.out.printf("\t                                | %-20s          | %-20s          | %-20s \n", B.getFFname(), B.getFMname(), B.getFLname());
 System.out.println("************************************************************************************************************************");
 System.out.println("\t| Citizenship\t\t\t\t\t| Religion");
 System.out.printf("\t| %-20s\t\t\t\t| %-20s \n", B.getFCiten(), B.getFReligion());
 System.out.println("************************************************************************************************************************");
 System.out.println("\t| Occupation\t\t\t\t\t| Age at the time of this birth");
-System.out.printf("\t%-20s\t\t\t\t| %-20s |\n", B.getFocc(), B.getFage());
+System.out.printf("\t| %-20s\t\t\t\t| %-20s \n", B.getFocc(), B.getFage());
 System.out.println("************************************************************************************************************************");
-System.out.println("\tResidence\t\t\t(House No.,Street,Barangay)\t\t\t(City/Municipality)\t(Province)");
-System.out.printf("\t| %-35s\t\t\t| %-20s\t\t\t| %-20s \n", B.getFHos(), B.getFCity(), B.getFprovi());
+System.out.println("\tResidence     | (House No.,Street,Barangay)    | (City/Municipality)   | (Province)");
+System.out.printf("\t              | %-20s           | %-20s  | %-20s \n", B.getFHos(), B.getFCity(), B.getFprovi());
 System.out.println("************************************************************************************************************************");
 
         
