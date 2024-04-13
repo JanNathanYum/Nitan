@@ -1,0 +1,10 @@
+C:\Users\Administrator\source\repos\GuessingWord\GuessingWord\bin\Debug\GuessingWord.exe.config
+C:\Users\Administrator\source\repos\GuessingWord\GuessingWord\bin\Debug\GuessingWord.exe
+C:\Users\Administrator\source\repos\GuessingWord\GuessingWord\bin\Debug\GuessingWord.pdb
+C:\Users\Administrator\source\repos\GuessingWord\GuessingWord\obj\Debug\GuessingWord.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\GuessingWord\GuessingWord\obj\Debug\GuessingWord.Form1.resources
+C:\Users\Administrator\source\repos\GuessingWord\GuessingWord\obj\Debug\GuessingWord.Properties.Resources.resources
+C:\Users\Administrator\source\repos\GuessingWord\GuessingWord\obj\Debug\GuessingWord.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\GuessingWord\GuessingWord\obj\Debug\GuessingWord.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\GuessingWord\GuessingWord\obj\Debug\GuessingWord.exe
+C:\Users\Administrator\source\repos\GuessingWord\GuessingWord\obj\Debug\GuessingWord.pdb
