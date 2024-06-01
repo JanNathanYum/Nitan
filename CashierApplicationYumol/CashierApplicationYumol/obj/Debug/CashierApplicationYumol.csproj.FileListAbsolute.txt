@@ -8,3 +8,4 @@ C:\Users\Administrator\source\repos\CashierApplicationYumol\CashierApplicationYu
 C:\Users\Administrator\source\repos\CashierApplicationYumol\CashierApplicationYumol\obj\Debug\CashierApplicationYumol.csproj.CoreCompileInputs.cache
 C:\Users\Administrator\source\repos\CashierApplicationYumol\CashierApplicationYumol\obj\Debug\CashierApplicationYumol.exe
 C:\Users\Administrator\source\repos\CashierApplicationYumol\CashierApplicationYumol\obj\Debug\CashierApplicationYumol.pdb
+C:\Users\Administrator\source\repos\CashierApplicationYumol\CashierApplicationYumol\obj\Debug\CashierApplicationYumol.frmLoginAccount.resources

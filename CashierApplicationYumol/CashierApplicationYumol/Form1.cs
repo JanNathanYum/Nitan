@@ -31,6 +31,24 @@ namespace CashierApplicationYumol
             cs.setPayment(Convert.ToDouble(PaymentTextBox.Text));
             Change.Text = cs.GetChange().ToString();
         }
-    }
-    }
 
+        private void exitApplicationToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Application.Exit();
+        }
+
+        private void logoutToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            
+
+        }
+
+        private void logoutToolStripMenuItem1_Click(object sender, EventArgs e)
+        {
+            frmLoginAccount frmLoginAccount = new frmLoginAccount();
+            frmLoginAccount.Show();
+
+            this.Hide();
+        }
+    }
+}
