@@ -1,0 +1,10 @@
+C:\Users\Administrator\source\repos\CashierApplicationYumol\CashierApplicationYumol\bin\Debug\CashierApplicationYumol.exe.config
+C:\Users\Administrator\source\repos\CashierApplicationYumol\CashierApplicationYumol\bin\Debug\CashierApplicationYumol.exe
+C:\Users\Administrator\source\repos\CashierApplicationYumol\CashierApplicationYumol\bin\Debug\CashierApplicationYumol.pdb
+C:\Users\Administrator\source\repos\CashierApplicationYumol\CashierApplicationYumol\obj\Debug\CashierApplicationYumol.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\CashierApplicationYumol\CashierApplicationYumol\obj\Debug\CashierApplicationYumol.Form1.resources
+C:\Users\Administrator\source\repos\CashierApplicationYumol\CashierApplicationYumol\obj\Debug\CashierApplicationYumol.Properties.Resources.resources
+C:\Users\Administrator\source\repos\CashierApplicationYumol\CashierApplicationYumol\obj\Debug\CashierApplicationYumol.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\CashierApplicationYumol\CashierApplicationYumol\obj\Debug\CashierApplicationYumol.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\CashierApplicationYumol\CashierApplicationYumol\obj\Debug\CashierApplicationYumol.exe
+C:\Users\Administrator\source\repos\CashierApplicationYumol\CashierApplicationYumol\obj\Debug\CashierApplicationYumol.pdb
